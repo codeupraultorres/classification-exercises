@@ -1,0 +1,2 @@
+# classification-exercises
+For class
